@@ -18,3 +18,7 @@ The frontend was developed using React.js and CodeMirror, providing a rich code 
 The application emphasizes real-time collaboration, database integration, and full-stack development practices. Users can write, edit, and sync code using a simple interface, while the backend handles broadcasting changes to all connected clients.
 
 This internship helped me enhance my skills in React.js, Node.js, MongoDB, and WebSocket-based real-time applications, while gaining hands-on experience in developing interactive, data-driven full-stack applications. The project also demonstrates the ability to work under guidance, follow best coding practices, and deliver a functional solution within the one-month internship duration.
+
+
+output-
+![Image](https://github.com/user-attachments/assets/d0994b37-9b5a-457f-ab6a-797566e1614e)
